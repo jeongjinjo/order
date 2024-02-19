@@ -82,7 +82,7 @@ namespace OrderForm
         }
         private void button1_Click(object sender, EventArgs e)
         {
-            main1.BringToFront();   
+            main1.BringToFront();
             //Main.BringToFront();
 
         }
@@ -152,7 +152,17 @@ namespace OrderForm
             Lb_Total_Price.Text = totalPrice.ToString(); // 총 금액을 Label에 표시
         }
 
-       
+        private void Btn_Whopper_Click(object sender, EventArgs e)
+        {
+            main1.BringToFront();
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+
 
         // ----------------------총 금액 계산 end--------------------------------
 

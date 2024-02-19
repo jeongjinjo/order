@@ -51,9 +51,9 @@
             // 
             listView1.Columns.AddRange(new ColumnHeader[] { columnHeader1, columnHeader2, columnHeader3 });
             listView1.GridLines = true;
-            listView1.Location = new Point(106, 47);
+            listView1.Location = new Point(76, 28);
             listView1.Name = "listView1";
-            listView1.Size = new Size(296, 219);
+            listView1.Size = new Size(450, 297);
             listView1.TabIndex = 0;
             listView1.UseCompatibleStateImageBehavior = false;
             listView1.View = View.Details;
@@ -80,6 +80,7 @@
             Btn_Whopper.TabIndex = 1;
             Btn_Whopper.Text = "메인";
             Btn_Whopper.UseVisualStyleBackColor = true;
+            Btn_Whopper.Click += Btn_Whopper_Click;
             // 
             // Btn_Cancel_all
             // 
@@ -182,6 +183,7 @@
             button1.TabIndex = 9;
             button1.Text = "음료";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click_1;
             // 
             // Main_form
             // 
@@ -208,7 +210,7 @@
 
         #endregion
 
-        private ListView listView1;
+        public static ListView listView1;
         private ColumnHeader columnHeader1;
         private ColumnHeader columnHeader2;
         private ColumnHeader columnHeader3;
