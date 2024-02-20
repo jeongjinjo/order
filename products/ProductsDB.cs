@@ -1,6 +1,7 @@
 ﻿using MySql.Data.MySqlClient;
 using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -26,14 +27,17 @@ namespace OrderForm.products
             MySqlConnection mySqlConnection = new MySqlConnection(connectionString);
             mySqlConnection.Open();
 
-            string query = $"SELECT name, quantity, price FROM products where name = '{name}'";
+            string query = $"SELECT name, quantity, price, category FROM products where name = '{name}'";
             MySqlCommand mySqlCommand = new MySqlCommand(query, mySqlConnection);
             MySqlDataReader reader = mySqlCommand.ExecuteReader();
 
             if(reader.Read())
             {
                 products.name = reader.GetString("name");
-                
+                products.category = reader.GetString("category");
+                products.price = reader.GetInt32("price");
+
+
             }
 
 

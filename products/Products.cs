@@ -9,10 +9,10 @@ namespace OrderForm.products
     public class Products
     {
 
-        public int product_id { get; set; }
+        public String product_id { get; set; }
         public string name { get; set; }
-        public string price { get; set; }
-        public string quantity { get; set; }
+        public int price { get; set; }
+        public String quantity { get; set; }
         public string category { get; set; }
 
     }

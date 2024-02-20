@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrderForm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd32a7090d2d13ce4514a53f69cceab44589567f")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrderForm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrderForm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

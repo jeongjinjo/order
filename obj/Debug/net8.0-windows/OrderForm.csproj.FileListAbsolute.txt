@@ -32,3 +32,17 @@ C:\Users\user\Downloads\Gmail\obj\Debug\net8.0-windows\OrderForm.csproj.Up2Date
 C:\Users\user\Downloads\Gmail\obj\Debug\net8.0-windows\WinFormsApp1.Food.Drink.resources
 C:\Users\user\Downloads\Gmail\obj\Debug\net8.0-windows\WinFormsApp1.Food.Main.resources
 C:\Users\user\Downloads\Gmail\obj\Debug\net8.0-windows\WinFormsApp1.Food.Side.resources
+C:\Users\user\Desktop\코딩 work\조정진 c# work\obj\Debug\net8.0-windows\OrderForm.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\코딩 work\조정진 c# work\obj\Debug\net8.0-windows\OrderForm.product_menu.burger.resources
+C:\Users\user\Desktop\코딩 work\조정진 c# work\obj\Debug\net8.0-windows\WinFormsApp1.Food.Drink.resources
+C:\Users\user\Desktop\코딩 work\조정진 c# work\obj\Debug\net8.0-windows\OrderForm.product_menu.drink2.resources
+C:\Users\user\Desktop\코딩 work\조정진 c# work\obj\Debug\net8.0-windows\WinFormsApp1.Food.Main.resources
+C:\Users\user\Desktop\코딩 work\조정진 c# work\obj\Debug\net8.0-windows\OrderForm.Main_form.resources
+C:\Users\user\Desktop\코딩 work\조정진 c# work\obj\Debug\net8.0-windows\WinFormsApp1.Food.Side.resources
+C:\Users\user\Desktop\코딩 work\조정진 c# work\obj\Debug\net8.0-windows\OrderForm.product_menu.side2.resources
+C:\Users\user\Desktop\코딩 work\조정진 c# work\obj\Debug\net8.0-windows\OrderForm.csproj.GenerateResource.cache
+C:\Users\user\Desktop\코딩 work\조정진 c# work\obj\Debug\net8.0-windows\OrderForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\코딩 work\조정진 c# work\obj\Debug\net8.0-windows\OrderForm.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\코딩 work\조정진 c# work\obj\Debug\net8.0-windows\OrderForm.AssemblyInfo.cs
+C:\Users\user\Desktop\코딩 work\조정진 c# work\obj\Debug\net8.0-windows\OrderForm.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\코딩 work\조정진 c# work\obj\Debug\net8.0-windows\OrderForm.sourcelink.json

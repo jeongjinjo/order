@@ -1792,11 +1792,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Downloads\\Gmail\\OrderForm.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\코딩 work\\조정진 c# work\\OrderForm.csproj",
       "projectName": "OrderForm",
-      "projectPath": "C:\\Users\\user\\Downloads\\Gmail\\OrderForm.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\코딩 work\\조정진 c# work\\OrderForm.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Downloads\\Gmail\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\코딩 work\\조정진 c# work\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
