@@ -1,26 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Downloads\\Gmail\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\uCF54\uB529 work\\\uC870\uC815\uC9C4 c# work\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88EB2D65-A9DD-408F-ACE6-C6494B3F2EAB}|OrderForm.csproj|c:\\users\\user\\downloads\\gmail\\main\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{88EB2D65-A9DD-408F-ACE6-C6494B3F2EAB}|OrderForm.csproj|solutionrelative:main\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88EB2D65-A9DD-408F-ACE6-C6494B3F2EAB}|OrderForm.csproj|c:\\users\\user\\downloads\\gmail\\main\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88EB2D65-A9DD-408F-ACE6-C6494B3F2EAB}|OrderForm.csproj|solutionrelative:main\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88EB2D65-A9DD-408F-ACE6-C6494B3F2EAB}|OrderForm.csproj|c:\\users\\user\\downloads\\gmail\\main\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88EB2D65-A9DD-408F-ACE6-C6494B3F2EAB}|OrderForm.csproj|solutionrelative:main\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88EB2D65-A9DD-408F-ACE6-C6494B3F2EAB}|OrderForm.csproj|c:\\users\\user\\downloads\\gmail\\main\\main_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88EB2D65-A9DD-408F-ACE6-C6494B3F2EAB}|OrderForm.csproj|solutionrelative:main\\main_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88EB2D65-A9DD-408F-ACE6-C6494B3F2EAB}|OrderForm.csproj|c:\\users\\user\\downloads\\gmail\\main\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{88EB2D65-A9DD-408F-ACE6-C6494B3F2EAB}|OrderForm.csproj|solutionrelative:main\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{88EB2D65-A9DD-408F-ACE6-C6494B3F2EAB}|OrderForm.csproj|c:\\users\\user\\desktop\\\uCF54\uB529 work\\\uC870\uC815\uC9C4 c# work\\product_menu\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88EB2D65-A9DD-408F-ACE6-C6494B3F2EAB}|OrderForm.csproj|solutionrelative:product_menu\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +14,18 @@
       "DocumentGroups": [
         {
           "DockedWidth": 328,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Main_form.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Gmail\\Main\\Main_form.Designer.cs",
-              "RelativeDocumentMoniker": "Main\\Main_form.Designer.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\Gmail\\Main\\Main_form.Designer.cs",
-              "RelativeToolTip": "Main\\Main_form.Designer.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAuwNQAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-19T08:15:48.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Main_form.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Gmail\\Main\\Main_form.cs",
-              "RelativeDocumentMoniker": "Main\\Main_form.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\Gmail\\Main\\Main_form.cs",
-              "RelativeToolTip": "Main\\Main_form.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAawCEAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-19T08:13:48.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Main.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Gmail\\Main\\Main.cs",
-              "RelativeDocumentMoniker": "Main\\Main.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\Gmail\\Main\\Main.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "Main\\Main.cs [\uB514\uC790\uC778]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-19T08:12:32.577Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Main.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Gmail\\Main\\Main.cs",
-              "RelativeDocumentMoniker": "Main\\Main.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\Gmail\\Main\\Main.cs",
-              "RelativeToolTip": "Main\\Main.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAADwv0EAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-18T21:44:20.134Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Main_form.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Gmail\\Main\\Main_form.cs",
-              "RelativeDocumentMoniker": "Main\\Main_form.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\Gmail\\Main\\Main_form.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "Main\\Main_form.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uCF54\uB529 work\\\uC870\uC815\uC9C4 c# work\\product_menu\\Main_form.cs",
+              "RelativeDocumentMoniker": "product_menu\\Main_form.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uCF54\uB529 work\\\uC870\uC815\uC9C4 c# work\\product_menu\\Main_form.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "product_menu\\Main_form.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-19T04:05:41.101Z",
+              "WhenOpened": "2024-02-20T04:01:50.648Z",
               "EditorCaption": " [\uB514\uC790\uC778]"
             }
           ]
